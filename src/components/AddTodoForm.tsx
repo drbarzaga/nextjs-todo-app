@@ -42,7 +42,7 @@ export default function AddTodoForm() {
       <Input
         type="text"
         name="text"
-        placeholder="Add a new todo..."
+        placeholder="💡Add a new todo..."
         disabled={isPending}
         className="flex-1"
       />
