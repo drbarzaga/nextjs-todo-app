@@ -1,7 +1,7 @@
 This is a simple Todo app built with Next.js, TypeScript, Tailwind CSS, Drizzle, and Postgres.
 
 <div align="center">
-    <img src="public/app.png" align="center" alt="Todo App" width="500">
+    <img src="public/app.png" align="center" alt="Todo App" width="950">
 </div>
 
 ## Getting Started
