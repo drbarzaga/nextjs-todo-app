@@ -33,6 +33,7 @@ const TodoItem: FC<Props> = ({ todo, isPending, onToggle, onDelete }) => {
         </label>
       </div>
       <Button
+        className="cursor-pointer"
         variant="ghost"
         size="icon"
         onClick={onDelete}
